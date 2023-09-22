@@ -1,0 +1,41 @@
+.li {
+    background-color:yellowgreen;
+}
+body {
+    background-color:#558B2F;
+}
+
+td{
+    color:white;
+}
+tr {
+    color:white;
+}
+footer{
+    text-align: center;
+}
+.listheading {
+    color:white;
+    text-align:center;
+}
+img:hover{
+    opacity: 70%;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.header{
+    color:red;
+    font-size: 40px;
+    font-family:fantasy;
+    text-align: center;
+}
+.header:hover {
+    color:skyblue;
+    
+}
+
